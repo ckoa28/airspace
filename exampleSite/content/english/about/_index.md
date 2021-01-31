@@ -3,7 +3,7 @@ title: O Nama
 description: 'Vama na usluzi  24h dnevno!  Električar Beograd povoljno vrši Elektro
   Usluge na teritoriji grada Beograda  Korišćenje zaštitnih maski i dezinfekcionog
   sredstva je obavezno jer moramo zaštititi i Vas i nas od nepoželjnih komplikacija. '
-bg_image: images/featue-bg.jpg
+bg_image: images//images/stari-grad.jpg
 
 ---
 **Brzo, kvalitetno i profesionalno** obavljamo [**servisne usluge**](https://elektricar011.rs/elektro-usluge/) na elektro instalacijama i svim električnim uređajima koje se koriste u domaćinstvima, lokalima, kancelarijama, restoranima, pekarama, radionicama…
