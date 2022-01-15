@@ -1,11 +1,11 @@
-baseURL = "https://elektricar011.rs"
+baseURL = "https://allservice.test.rs"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
 themesDir = "../.."
-title = "Električar Beograd - brzo, kvalitetno i profesionalno"
+title = "All Service"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
