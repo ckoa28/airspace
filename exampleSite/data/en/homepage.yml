@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: blog-post-1.jpg
-  bg_overlay: true
+  bg_overlay: false
   title: 'Servis Elektronike '
   content: We love Electronics and the work we do.We work closely with our clients
     to deliver  the best possible solutions for their needs
