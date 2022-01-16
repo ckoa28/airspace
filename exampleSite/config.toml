@@ -76,7 +76,7 @@ weight = 6
 contentDir = ""
 copyright = ""
 languageCode = "rs"
-languageName = ""
+languageName = "rs"
 weight = ""
 [Languages.fr.menu]
 footer = []
