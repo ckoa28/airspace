@@ -75,7 +75,7 @@ weight = 6
 [Languages.fr]
 contentDir = ""
 copyright = ""
-languageCode = ""
+languageCode = "rs"
 languageName = ""
 weight = ""
 [Languages.fr.menu]
