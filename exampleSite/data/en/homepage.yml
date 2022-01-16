@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: artboard-1.png
   bg_overlay: true
   title: 'Servis Elektronike '
   content: We love Electronics and the work we do.We work closely with our clients
